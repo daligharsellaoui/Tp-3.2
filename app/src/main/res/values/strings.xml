@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TP03.2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="recipes">
+        <item>pizza</item>
+        <item>burger</item>
+        <item>pasta</item>
+        <item>salad</item>
+
+    </string-array>
+
+    <string-array name="short_description">
+        <item>Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then </item>
+        <item>A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame</item>
+        <item>Pasta is a type of food typically made from an unleavened dough of wheat flour ... Although numerous variations of ingredients for di</item>
+        <item>A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with
+        </item>
+        <item>A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame
+        </item>
+        <item>Pasta is a type of food typically made from an unleavened dough of wheat flour ... Although numerous variations of ingredients for di
+        </item>
+        <item>A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served
+        </item>
+
+    </string-array>
+
+</resources>
